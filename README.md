@@ -8,6 +8,8 @@ Suzan Yeaqba
 - the first step click to start button to initialize App 
 
 - the second step Guess the number and the app help to set massage 
+
+
  1.smaller
 
 2.greater
