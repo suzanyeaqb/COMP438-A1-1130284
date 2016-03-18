@@ -14,12 +14,11 @@ Suzan Yeaqba
 1.smaller
 ![ScreenShot](https://github.com/suzanyeaqb/COMP438-A1-1130284/blob/master/Screenshot_2016-03-18-02-25-05.png)
 
-2.greater
-![ScreenShot](https://github.com/suzanyeaqb/COMP438-A1-1130284/blob/master/Screenshot_2016-03-18-02-25-33.png)
 
-3.very close!! {over or less five number}
+2.very close!! {over or less five number}
 ![ScreenShot](https://github.com/suzanyeaqb/COMP438-A1-1130284/blob/master/Screenshot_2016-03-18-02-26-01.png)
-
+3.greater
+![ScreenShot](https://github.com/suzanyeaqb/COMP438-A1-1130284/blob/master/Screenshot_2016-03-18-02-25-33.png)
 4.winner and play music 
 ![ScreenShot](https://github.com/suzanyeaqb/COMP438-A1-1130284/blob/master/Screenshot_2016-03-18-02-26-24.png)
 - you can restart the game and end game
